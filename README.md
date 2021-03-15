@@ -37,7 +37,8 @@ States across the country reduced their initial budget due to the impact of COVI
  Data was extracted from the OWID official website as an external data to compare the insights to other insights derived from other data used above.
  
 # Suggestions on future work/Improvement plans
-1. Ability to get data, analyse and generate insights on the breakdown of the effect on the socio-economy per states like effect of COVID 19 on 
+1. Ability to get more COVID 19 data, analyse and generate insights on the breakdown of the effect on the socio-economy per states like effect of COVID 19 on 
 - Primary, Secondary and Tertiary Education
 - Employment rate and effect on each job sectors
-2. Ability to introduce Artificial Intelligence (AI) into the project to design a model to predict the effect and opportunities of COVID 19 in the next few years
+2. Ability to do analysis on the rate of vaccine availability, vaccine collection per confirmed cases and non confirmed cases and effect on the confirmed cases
+3. Ability to introduce Artificial Intelligence (AI) into the project to design a model to predict the effect and opportunities of COVID 19 in the next few years
